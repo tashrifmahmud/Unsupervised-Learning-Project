@@ -1,9 +1,7 @@
 # machine_learning_project-unsupervised-learning
 > Tashrif Mahmud
 
-## Project Objective
-
-## Project Outcomes
+## Project Outcomes:
 - Unsupervised Learning: perform unsupervised learning techniques on a wholesale data dataset. The project involves four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
 
 ### Project Description:
