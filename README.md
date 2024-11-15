@@ -14,7 +14,7 @@ The project will involve the following tasks:
 -	Unsupervised learning: We will use the Wholesale Data dataset to perform k-means clustering, hierarchical clustering, and principal component analysis (PCA) to identify patterns and group similar data points together. We will determine the optimal number of clusters and communicate the insights gained through data visualization.
 
 ## Project Process:
-Details of it can be found in ["Unsupervised Learning - Project.ipynb"]()
+Details of it can be found in ["Unsupervised Learning - Project.ipynb"](https://github.com/tashrifmahmud/unsupervised-learning-project/blob/main/Unsupervised%20Learning%20-%20Project.ipynb)
 
 ### 1. EDA
 * Imported csv file to create dataframe
