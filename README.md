@@ -1,4 +1,4 @@
-# machine_learning_project-unsupervised-learning
+# Machine Learning Project - Unsupervised Learning
 > Tashrif Mahmud
 
 ## Project Outcomes:
